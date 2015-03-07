@@ -14,8 +14,8 @@ Description
 	This dataset is a derivative of the MovieLens + IMDb/Rotten Tomatoes dataset 
 	(http://grouplens.org/datasets/hetrec-2011/) created by Iván Cantador with the 
 	collaboration of Alejandro Bellogín and Ignacio Fernández-Tobías of the Information 
-	Retrieval group at Universidad Autonoma de Madrid or the HetRec'11 workshop. Their 
-	original dataset links the movies of MovieLens dataset, published by GroupLeans 
+	Retrieval group at Universidad Autonoma de Madrid for the HetRec'11 workshop. Their 
+	original dataset links the movies of MovieLens dataset, published by GroupLens 
 	research group (http://www.grouplens.org), with their corresponding web pages at the
     Internet Movie Database (IMDb, http://www.imdb.com) and Rotten Tomatoes movie review 
     systems (http://www.rottentomatoes.com).
@@ -56,6 +56,7 @@ Data format
 -----------
 
    The data is formatted one entry per line as follows:
+   
 	* movies_actors_new_subset.xlsx
 		movieID		actorID		actorName
 	
@@ -95,9 +96,13 @@ References
 ----------
 
    When using this dataset you should cite:
+   
       - the original Movielens dataset from GroupLens research group, http://www.grouplens.org
+      
       - IMDb website, http://www.imdb.com
+      
       - Rotten Tomatoes website, http://www.rottentomatoes.com
+      
       - the HetRec'11 workshop as follows:
 
    @inproceedings{Cantador:RecSys2011,
