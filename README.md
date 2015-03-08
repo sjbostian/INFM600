@@ -22,7 +22,7 @@ Description
 
     From the original dataset, only information necessary to answer the question of 
     which actors made the most films in each genre for a particular year or range of 
-    years has been mantained. This includes genres, actors and release years for each 
+    years has been maintained. This includes genres, actors and release years for each 
     movie.
     
     The dataset is released in the framework of INFM 600, Information Environments, Spring 
